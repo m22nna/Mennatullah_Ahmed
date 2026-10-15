@@ -64,7 +64,7 @@ export default function ContactAndFooter() {
       <section id="contact" className="py-24 border-t border-amber-500/15">
         <div className="max-w-6xl mx-auto px-6 lg:px-10">
           <div className="text-center mb-16">
-            <h2 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-4 bg-gradient-to-r from-amber-200 via-amber-400 to-yellow-500 bg-clip-text text-transparent courgette-regular drop-shadow-sm">
+            <h2 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-4 bg-linear-to-r from-amber-200 via-amber-400 to-yellow-500 bg-clip-text text-transparent courgette-regular drop-shadow-sm">
               Get In Touch
             </h2>
             <p className="text-zinc-400 text-lg sm:text-xl mt-4 max-w-2xl mx-auto aboutParagraph">

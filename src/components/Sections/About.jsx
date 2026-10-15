@@ -66,7 +66,7 @@ function About() {
           className="text-4xl sm:text-5xl md:text-6xl font-bold text-white courgette-regular"
         >
           About{" "}
-          <span className="bg-gradient-to-r from-amber-200 via-amber-400 to-yellow-500 bg-clip-text text-transparent">
+          <span className="bg-linear-to-r from-amber-200 via-amber-400 to-yellow-500 bg-clip-text text-transparent">
             Me
           </span>
         </motion.h2>
@@ -108,7 +108,7 @@ function About() {
                 whileTap={{ scale: 0.98 }}
                 className={`group w-full flex items-center justify-between rounded-2xl border p-4 text-left transition-all duration-300 ${
                   isActive
-                    ? "border-amber-500/80 bg-gradient-to-r from-amber-500/15 to-amber-500/5 shadow-[0_0_25px_rgba(245,158,11,0.15)]"
+                    ? "border-amber-500/80 bg-linear-to-r from-amber-500/15 to-amber-500/5 shadow-[0_0_25px_rgba(245,158,11,0.15)]"
                     : "border-zinc-800/80 hover:border-amber-500/40 bg-zinc-950/40"
                 }`}
               >

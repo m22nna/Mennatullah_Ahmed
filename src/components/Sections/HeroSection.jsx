@@ -36,7 +36,7 @@ export function HeroSection() {
             {/* Title */}
             <TypingAnimation
               as="h1"
-              className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-4 bg-gradient-to-r from-amber-200 via-amber-400 to-yellow-500 bg-clip-text text-transparent courgette-regular drop-shadow-sm"
+              className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-4 bg-linear-to-r from-amber-200 via-amber-400 to-yellow-500 bg-clip-text text-transparent courgette-regular drop-shadow-sm"
               onComplete={() => setShowSubtitle(true)}
             >
               It's Menna
