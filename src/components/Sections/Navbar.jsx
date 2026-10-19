@@ -40,7 +40,8 @@ function Navbar() {
 
         {/* Contact Button */}
         <a
-          href="#contact"
+          href="https://wa.me/201115471752"
+          rel="noopener noreferrer"
           className="hidden md:inline-flex bg-amber-500 hover:bg-amber-600 text-black font-semibold px-5 py-2 rounded-xl transition shadow-md shadow-amber-500/10"
         >
           Contact Me
@@ -74,7 +75,8 @@ function Navbar() {
           ))}
 
           <a
-            href="#contact"
+            href="https://wa.me/201115471752"
+            rel="noopener noreferrer"
             className="bg-amber-500 hover:bg-amber-600 text-black font-semibold px-5 py-2 rounded-xl"
           >
             Contact Me
